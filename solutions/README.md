@@ -50,8 +50,15 @@ Example 8
 ```
 JTI3KmFsYWxlcnRlcnQlNjB4c3MlNjAqJTI3
 ```
+
 Example 9
 
 ```
 JTVDeDI3JTVDeDNiJTVDeDYxJTVDeDZjJTVDeDY1JTVDeDcyJTVDeDc0JTVDeDI4ZG9jdW0lNUN4NjVuJTVDeDc0JTVDeDJFZG9tJTVDeDYxaW4lNUN4MjklNUN4MmYlNUN4MmY=
+```
+
+Example 10 (read the php file)
+
+```
+cnVubWU9MSMlMjUzQ3NjcmlwdCUyNTNFYWxlcnQoZG9jdW1lbnQuZG9tYWluKSUyNTNDL3NjcmlwdCUyNTNF
 ```
