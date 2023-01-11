@@ -1,6 +1,6 @@
 <script>
 <?php
-if ($_GET["runme"])
+if ($_GET["xss"])
  echo 'runme();';
 ?>;
  
