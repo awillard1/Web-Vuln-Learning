@@ -12,6 +12,12 @@ if (str_contains($string,'document'))
 	return;
 if (str_contains($string,'alert'))
 	return;
+if (str_contains($string,'con'))
+	return;
+if (str_contains($string,'win'))
+	return;
+if (str_contains($string,'pro'))
+	return;
 echo $string;
 ?>
 </script>
