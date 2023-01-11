@@ -1,8 +1,9 @@
+# Solutions
 Base64 of possible solutions.
 
-Please try as hard as possible before looking at the possible solutionss. 
+Please try as hard as possible before looking at the possible solutions. 
 
-Example 3 will have payloads that require interaction and others that don't.
+___
 
 
 Example 1
