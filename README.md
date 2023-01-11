@@ -3,7 +3,7 @@ Read the example php files to determine what parameters are to be used and disco
 
 The source of the php file is to be used.
 
-xss is going to be the URL parameter ```$_GET["xss"]```. 
+The URL parameter for these examples will be `xss` (as seen in the php files as `$_GET["xss"]`). Originally, the parameters were going to be random per example; however, if you want to just dive in without looking at the php source, you can by using `xss` as the URL parameter..
 
 > NOTE: The number assigned to the example does not indicate if the XSS payload is easier or harder than the previous.
 
