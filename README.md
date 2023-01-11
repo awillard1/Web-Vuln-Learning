@@ -1,6 +1,8 @@
 # XSS Learning
 Read the example php files to determine what parameters are to be used and discover what needs to be done to get XSS to fire.
 
+> NOTE: The number assigned to the example does not indicate if the XSS payload is easier or harder than the previous.
+
 Make sure you have php installed on wsl/linux
 
 ```
