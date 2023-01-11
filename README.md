@@ -1,3 +1,4 @@
+# XSS Learning
 Read the example php files to determine what parameters are to be used and discover what needs to be done to get XSS to fire.
 
 Make sure you have php installed on wsl/linux
