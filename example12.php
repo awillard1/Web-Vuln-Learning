@@ -13,5 +13,6 @@ $string = str_ireplace('%','',$string);
 $string = str_ireplace(':','',$string);
 $string = str_ireplace('{','',$string);
 $string = str_ireplace('}','',$string);
+$string = str_ireplace('^','',$string);
 echo $string;
 ?>');"><p>The goal is to alert document.domain when the page loads.</body>
