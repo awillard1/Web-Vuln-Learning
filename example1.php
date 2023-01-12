@@ -5,5 +5,4 @@ function xyz(){
 		document.getElementById('test').innerText='hello';
 	}
 }
-
 </script>
