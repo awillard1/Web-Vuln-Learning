@@ -7,6 +7,7 @@
 	fetch(url)
     .then((response) => response.text())
     .then((text) => {
+      //${text}
       document.writeln(`<?php 
       $p = $_GET['xss'];
       $p = str_ireplace('script','',$p);
