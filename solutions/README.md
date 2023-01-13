@@ -95,3 +95,8 @@ Example 15
 JTI3JTJCZG9jdW1lbnQlNUIlMjdkb21haW4lMjclNUQlMkIlMjc=
 ```
 
+Example 16
+
+```
+cHV0IDxpbWcgc3JjPWEgICAgaW4gdGhlIEZpcnN0IE5hbWUgZmllbGQgYW5kIHRoZW4gcHV0IHNvbWV0aGluZyBsaWtlIG9uZXJyb3I9YWxlcnQoZG9jdW1lbnQuZG9tYWluKT4gaW4gdGhlIExhc3QgTmFtZSBmaWVsZC4=
+```
