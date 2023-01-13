@@ -9,7 +9,7 @@
 <body>
     <h1>Web Vulnerability Learning</h1>
     <p>Have fun.</p>
-    <iframe style="float:right" src="INFO.md" width="500px" height="500px"></iframe>
+    <iframe style="float:right;margin-right:50px" src="INFO.md" width="500px" height="500px"></iframe>
 <?php
 $dir    = '.';
 $dir1 = glob($dir . '/*' , GLOB_ONLYDIR);//scandir($dir);
