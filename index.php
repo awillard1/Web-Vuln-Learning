@@ -18,7 +18,7 @@ foreach ($dir1 as $v1){
     $files = glob($v1.'/*.{*}', GLOB_BRACE);
     foreach ($files as $v2){
         $p=str_replace('./','',$v2);
-        echo '<li><a href="'.$p.'">'.str_replace($v1.'/','',$v2).'</li>';
+        echo '<li><a href="'.$p.'">'.str_replace($v1.'/','',$v2).'</a></li>';
     }
     echo '</ul>';
 }
