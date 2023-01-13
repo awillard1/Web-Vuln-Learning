@@ -1,4 +1,4 @@
-# XSS Learning
+# Web Vulnerability Learning
 Read the example php files to determine what parameters are to be used and discover what needs to be done to get XSS to fire.
 
 The source of the php file is to be used.
