@@ -7,7 +7,7 @@
         </style>
 </head>
 <body>
-<h1>Edit the file in the xxe/files/xxe.xml</h1>
+<h1>Edit the file in the xxe/files/xxe.xml and refresh this page.</h1>
 <p><?php 
     libxml_disable_entity_loader (false);
     $xmlfile = file_get_contents('files/xxe.xml');
