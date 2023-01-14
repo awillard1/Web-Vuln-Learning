@@ -22,6 +22,7 @@ Make sure you have php installed on wsl/linux
 
 ```
 sudo apt install php
+sudo apt-get install php-xml
 ```
 
 Create a local directory where you  will store the example files and run a PHP webserver from.
