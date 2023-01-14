@@ -5,7 +5,7 @@ This was originally setup to help team members with specific XSS issues that wer
 
 ## Let's begin
 
-Read the example php files to determine what parameters are to be used and discover what needs to be done to get vulnerability to fire.
+Read the example php files to determine what parameters are to be used and discover what needs to be done to get the vulnerability to fire.
 
 The source of the php file is to be used.
 
