@@ -7,7 +7,7 @@ This was originally setup to help team members with specific XSS issues that wer
 
 Read the example php files to determine what parameters are to be used and discover what needs to be done to get the vulnerability to fire.
 
-The source of the php file is to be used.
+The source of the php files can be used to identify what may be wrong or how to get to a solution.
 
 > NOTE: The number assigned to the example does not indicate if the payload is easier or harder than the previous.
 
