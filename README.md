@@ -18,7 +18,7 @@ The source of the php file is to be used.
 As I find time to add other examples, I will upload them here.
 
 # Installation/Usage
-Make sure you have php installed on wsl/linux
+Make sure you have php installed on wsl or linux (have not tested with php on windows)
 
 ```
 sudo apt install php
